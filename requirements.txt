@@ -1,0 +1,10 @@
+requests
+cloudscraper
+selenium
+webdriver-manager
+seleniumbase
+beautifulsoup4
+tenacity
+playwright
+fake-useragent
+beautifulsoup4
