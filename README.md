@@ -5,7 +5,7 @@ A Python package to fetch web content using different advance methods.
 ## Installation
 
 ```bash
-python -m pip install ncirequest
+python -m pip install nciscraper
 ```
 
 ## Usages
